@@ -159,7 +159,8 @@ $1(d){if(d.t(0,C.B))return C.aW
 return C.bN},
 $S:31}
 B.RA.prototype={
-$0(){B.a3J()},
+$0(){B.a3J()
+return},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.zL,E.mY)
 x(B.Go,A.aZ)
@@ -178,4 +179,4 @@ D.IH=new A.iJ("Home",null,null,null,null)
 D.II=new A.iJ("Abrir Formul\xe1rio",null,null,null,null)})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"aw7","ahu",()=>A.dD("/formulario/",0,null))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"sPL8h+UNKc4pEqBDDllQmovRS/A=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"Z0u/4pxYA0+F3Bo71KGFD+YuQR8=");
