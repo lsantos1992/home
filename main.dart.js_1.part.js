@@ -176,6 +176,6 @@ D.BJ=new E.bI(D.EY,A.Z("bI<a2>"))
 D.Dp=new A.lR(3,"externalApplication")
 D.IH=new A.iJ("Home",null,null,null,null)
 D.II=new A.iJ("Abrir Formul\xe1rio",null,null,null,null)})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"aw7","ahu",()=>A.dD("/web/formulario/",0,null))})()};
+x($,"aw7","ahu",()=>A.dD("/formulario/",0,null))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"OzrFtDbFDvgnzWc0wjZjvMFjx58=");
+a.eventLog.push({p:"main.dart.js_1",e:"endPart",h:b})})($__dart_deferred_initializers__,"sPL8h+UNKc4pEqBDDllQmovRS/A=");
